@@ -4,6 +4,6 @@ This is a CURD -> "Create, Update, Read and Delete." operations website with stu
 
 
 ### Frame work and Database Used
-   #-> React, MySQL
+   #-> React, Node, and MySQL
 
 ![alt text](client_screen.jpg)
